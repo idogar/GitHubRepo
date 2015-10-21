@@ -1,0 +1,9 @@
+{
+  "name": "Test_Package",
+  "description": "This is a test package",
+  "version": "6.6.6",
+  "repository" :
+	{ "type" : "git",
+	  "url" : "https://git.wdf.sap.corp:8080/com.sap.watt.git"
+	} 
+}
